@@ -10,7 +10,9 @@ b) De forma descentralzada, 6,5 MB. Esto es porque a pesar de haber sido borrado
 
 Ejercicio 2
 
-¿Que significa GIT?
+¿Que significa Git?
+
+Git significa mala persona, engreida, sobradora, etc. Lo que supuestamente piensa Linus Torvals que la gente piensa de él.
 
 ¿En que lenguaje está escrito?
 
@@ -21,6 +23,8 @@ Programado en: C, Bourne Shell, Perl​
 Licencia: GNU GPL v2
 
 ¿Donde está alojado su código?
+
+kernel.org y un mirror en github.
 
 Ejercicio 3
 
