@@ -41,3 +41,17 @@ Desde el punto de vista estructural de Git ¿en qué se diferencian un branch de
 
 Un tag es una referencia a un commit que lo identifica de forma "amigable", un branch es un puntero a un commit. 
 
+
+Ejercicio 4
+
+Sacar un archivo del area de staging
+
+git reset <paths>
+
+Descartar los cambios realizados a un archivo previamente comiteado
+
+git reset --hard
+
+Recuperar una version anterior
+
+git checkout mas el numero de commit de la version a la cual quiero acceder
